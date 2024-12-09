@@ -1,0 +1,410 @@
+Match,Team1,Team2,Wins1,Draws,Wins2
+Burnley 0-3 Manchester City,Burnley,Manchester City,1,2,15
+Arsenal 2-1 Nottingham Forest,Arsenal,Nottingham Forest,3,0,3
+AFC Bournemouth 1-1 West Ham United,AFC Bournemouth,West Ham United,5,3,6
+Brighton & Hove Albion 4-1 Luton Town,Brighton & Hove Albion,Luton Town,1,0,1
+Everton 0-1 Fulham,Everton,Fulham,9,3,4
+Sheffield United 0-1 Crystal Palace,Sheffield United,Crystal Palace,3,0,3
+Newcastle United 5-1 Aston Villa,Newcastle United,Aston Villa,9,9,5
+Brentford 2-2 Tottenham Hotspur,Brentford,Tottenham Hotspur,1,2,2
+Chelsea 1-1 Liverpool,Chelsea,Liverpool,10,15,11
+Manchester United 1-0 Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers,10,4,4
+Nottingham Forest 2-1 Sheffield United,Nottingham Forest,Sheffield United,3,4,4
+Fulham 0-3 Brentford,Fulham,Brentford,6,3,8
+Liverpool 3-1 AFC Bournemouth,Liverpool,AFC Bournemouth,15,1,2
+Wolverhampton Wanderers 1-4 Brighton & Hove Albion,Wolverhampton Wanderers,Brighton & Hove Albion,3,8,7
+Tottenham Hotspur 2-0 Manchester United,Tottenham Hotspur,Manchester United,7,6,15
+Manchester City 1-0 Newcastle United,Manchester City,Newcastle United,22,3,2
+Aston Villa 4-0 Everton,Aston Villa,Everton,8,6,7
+West Ham United 3-1 Chelsea,West Ham United,Chelsea,7,5,13
+Crystal Palace 0-1 Arsenal,Crystal Palace,Arsenal,3,6,11
+Chelsea 3-0 Luton Town,Chelsea,Luton Town,2,0,0
+AFC Bournemouth 0-2 Tottenham Hotspur,AFC Bournemouth,Tottenham Hotspur,2,2,9
+Arsenal 2-2 Fulham,Arsenal,Fulham,9,4,1
+Brentford 1-1 Crystal Palace,Brentford,Crystal Palace,1,5,0
+Everton 0-1 Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,5,4,5
+Manchester United 3-2 Nottingham Forest,Manchester United,Nottingham Forest,4,0,0
+Brighton & Hove Albion 1-3 West Ham United,Brighton & Hove Albion,West Ham United,6,6,2
+Burnley 1-3 Aston Villa,Burnley,Aston Villa,2,4,3
+Sheffield United 1-2 Manchester City,Sheffield United,Manchester City,0,0,5
+Newcastle United 1-2 Liverpool,Newcastle United,Liverpool,4,6,14
+Luton Town 1-2 West Ham United,Luton Town,West Ham United,0,1,0
+Sheffield United 2-2 Everton,Sheffield United,Everton,2,0,3
+Brentford 2-2 AFC Bournemouth,Brentford,AFC Bournemouth,6,5,5
+Burnley 2-5 Tottenham Hotspur,Burnley,Tottenham Hotspur,2,4,11
+Chelsea 0-1 Nottingham Forest,Chelsea,Nottingham Forest,3,2,0
+Manchester City 5-1 Fulham,Manchester City,Fulham,15,2,0
+Brighton & Hove Albion 3-1 Newcastle United,Brighton & Hove Albion,Newcastle United,6,6,5
+Crystal Palace 3-2 Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers,7,1,5
+Liverpool 3-0 Aston Villa,Liverpool,Aston Villa,14,3,6
+Arsenal 3-1 Manchester United,Arsenal,Manchester United,9,7,14
+Wolverhampton Wanderers 1-3 Liverpool,Wolverhampton Wanderers,Liverpool,4,1,13
+Aston Villa 3-1 Crystal Palace,Aston Villa,Crystal Palace,6,2,6
+Fulham 1-0 Luton Town,Fulham,Luton Town,2,2,0
+Manchester United 1-3 Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,10,1,5
+Tottenham Hotspur 2-1 Sheffield United,Tottenham Hotspur,Sheffield United,3,2,2
+West Ham United 1-3 Manchester City,West Ham United,Manchester City,2,5,23
+Newcastle United 1-0 Brentford,Newcastle United,Brentford,5,1,1
+AFC Bournemouth 0-0 Chelsea,AFC Bournemouth,Chelsea,4,1,10
+Everton 0-1 Arsenal,Everton,Arsenal,7,5,17
+Nottingham Forest 1-1 Burnley,Nottingham Forest,Burnley,2,4,7
+Crystal Palace 0-0 Fulham,Crystal Palace,Fulham,3,4,3
+Luton Town 1-1 Wolverhampton Wanderers,Luton Town,Wolverhampton Wanderers,1,1,0
+Manchester City 2-0 Nottingham Forest,Manchester City,Nottingham Forest,1,1,0
+Brentford 1-3 Everton,Brentford,Everton,2,2,2
+Burnley 0-1 Manchester United,Burnley,Manchester United,1,5,9
+Arsenal 2-2 Tottenham Hotspur,Arsenal,Tottenham Hotspur,13,7,11
+Brighton & Hove Albion 3-1 AFC Bournemouth,Brighton & Hove Albion,AFC Bournemouth,4,4,8
+Chelsea 0-1 Aston Villa,Chelsea,Aston Villa,14,4,5
+Liverpool 3-1 West Ham United,Liverpool,West Ham United,16,4,6
+Sheffield United 0-8 Newcastle United,Sheffield United,Newcastle United,1,1,3
+Aston Villa 6-1 Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,6,5,1
+AFC Bournemouth 0-4 Arsenal,AFC Bournemouth,Arsenal,1,2,10
+Everton 1-2 Luton Town,Everton,Luton Town,0,0,0
+Manchester United 0-1 Crystal Palace,Manchester United,Crystal Palace,16,4,4
+Newcastle United 2-0 Burnley,Newcastle United,Burnley,6,5,2
+West Ham United 2-0 Sheffield United,West Ham United,Sheffield United,2,2,1
+Wolverhampton Wanderers 2-1 Manchester City,Wolverhampton Wanderers,Manchester City,3,3,11
+Tottenham Hotspur 2-1 Liverpool,Tottenham Hotspur,Liverpool,5,8,16
+Nottingham Forest 1-1 Brentford,Nottingham Forest,Brentford,4,3,9
+Fulham 0-2 Chelsea,Fulham,Chelsea,1,6,9
+Luton Town 1-2 Burnley,Luton Town,Burnley,0,1,1
+Luton Town 0-1 Tottenham Hotspur,Luton Town,Tottenham Hotspur,0,0,0
+Burnley 1-4 Chelsea,Burnley,Chelsea,1,4,9
+Everton 3-0 AFC Bournemouth,Everton,AFC Bournemouth,6,2,6
+Fulham 3-1 Sheffield United,Fulham,Sheffield United,4,2,3
+Manchester United 2-1 Brentford,Manchester United,Brentford,3,1,1
+Crystal Palace 0-0 Nottingham Forest,Crystal Palace,Nottingham Forest,1,3,5
+Brighton & Hove Albion 2-2 Liverpool,Brighton & Hove Albion,Liverpool,3,3,10
+West Ham United 2-2 Newcastle United,West Ham United,Newcastle United,6,5,12
+Wolverhampton Wanderers 1-1 Aston Villa,Wolverhampton Wanderers,Aston Villa,8,5,5
+Arsenal 1-0 Manchester City,Arsenal,Manchester City,9,7,21
+Liverpool 2-0 Everton,Liverpool,Everton,14,13,2
+AFC Bournemouth 1-2 Wolverhampton Wanderers,AFC Bournemouth,Wolverhampton Wanderers,3,2,3
+Brentford 3-0 Burnley,Brentford,Burnley,1,0,3
+Manchester City 2-1 Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,11,1,1
+Newcastle United 4-0 Crystal Palace,Newcastle United,Crystal Palace,8,8,4
+Nottingham Forest 2-2 Luton Town,Nottingham Forest,Luton Town,2,2,2
+Chelsea 2-2 Arsenal,Chelsea,Arsenal,15,9,14
+Sheffield United 1-2 Manchester United,Sheffield United,Manchester United,1,1,3
+Aston Villa 4-1 West Ham United,Aston Villa,West Ham United,4,6,9
+Tottenham Hotspur 2-0 Fulham,Tottenham Hotspur,Fulham,13,2,2
+Crystal Palace 1-2 Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,4,3,15
+Chelsea 0-2 Brentford,Chelsea,Brentford,4,2,2
+AFC Bournemouth 2-1 Burnley,AFC Bournemouth,Burnley,3,2,7
+Arsenal 5-0 Sheffield United,Arsenal,Sheffield United,3,1,1
+Wolverhampton Wanderers 2-2 Newcastle United,Wolverhampton Wanderers,Newcastle United,4,8,6
+West Ham United 0-1 Everton,West Ham United,Everton,7,7,13
+Aston Villa 3-1 Luton Town,Aston Villa,Luton Town,0,0,2
+Brighton & Hove Albion 1-1 Fulham,Brighton & Hove Albion,Fulham,5,3,6
+Liverpool 3-0 Nottingham Forest,Liverpool,Nottingham Forest,2,0,1
+Manchester United 0-3 Manchester City,Manchester United,Manchester City,14,4,17
+Fulham 0-1 Manchester United,Fulham,Manchester United,0,3,13
+Brentford 3-2 West Ham United,Brentford,West Ham United,4,0,3
+Burnley 0-2 Crystal Palace,Burnley,Crystal Palace,8,5,7
+Everton 1-1 Brighton & Hove Albion,Everton,Brighton & Hove Albion,6,2,4
+Manchester City 6-1 AFC Bournemouth,Manchester City,AFC Bournemouth,13,0,0
+Sheffield United 2-1 Wolverhampton Wanderers,Sheffield United,Wolverhampton Wanderers,2,1,6
+Newcastle United 1-0 Arsenal,Newcastle United,Arsenal,3,3,20
+Nottingham Forest 2-0 Aston Villa,Nottingham Forest,Aston Villa,2,4,4
+Luton Town 1-1 Liverpool,Luton Town,Liverpool,0,0,0
+Tottenham Hotspur 1-4 Chelsea,Tottenham Hotspur,Chelsea,6,11,18
+Wolverhampton Wanderers 2-1 Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur,4,4,7
+Arsenal 3-1 Burnley,Arsenal,Burnley,11,3,1
+Crystal Palace 2-3 Everton,Crystal Palace,Everton,4,10,8
+Manchester United 1-0 Luton Town,Manchester United,Luton Town,1,0,0
+AFC Bournemouth 2-0 Newcastle United,AFC Bournemouth,Newcastle United,2,4,5
+Aston Villa 3-1 Fulham,Aston Villa,Fulham,7,4,9
+Brighton & Hove Albion 1-1 Sheffield United,Brighton & Hove Albion,Sheffield United,0,2,2
+Liverpool 3-0 Brentford,Liverpool,Brentford,2,1,1
+West Ham United 3-2 Nottingham Forest,West Ham United,Nottingham Forest,4,0,2
+Chelsea 4-4 Manchester City,Chelsea,Manchester City,12,5,22
+Manchester City 1-1 Liverpool,Manchester City,Liverpool,10,13,15
+Burnley 1-2 West Ham United,Burnley,West Ham United,5,4,9
+Luton Town 2-1 Crystal Palace,Luton Town,Crystal Palace,0,0,0
+Newcastle United 4-1 Chelsea,Newcastle United,Chelsea,8,5,14
+Nottingham Forest 2-3 Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,4,5,5
+Sheffield United 1-3 AFC Bournemouth,Sheffield United,AFC Bournemouth,5,2,1
+Brentford 0-1 Arsenal,Brentford,Arsenal,1,1,4
+Tottenham Hotspur 1-2 Aston Villa,Tottenham Hotspur,Aston Villa,17,1,4
+Everton 0-3 Manchester United,Everton,Manchester United,6,9,16
+Fulham 3-2 Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,3,7,10
+Arsenal 2-1 Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,8,3,3
+Brentford 3-1 Luton Town,Brentford,Luton Town,3,0,2
+Burnley 5-0 Sheffield United,Burnley,Sheffield United,3,3,3
+Nottingham Forest 0-1 Everton,Nottingham Forest,Everton,0,2,0
+Newcastle United 1-0 Manchester United,Newcastle United,Manchester United,6,6,15
+AFC Bournemouth 2-2 Aston Villa,AFC Bournemouth,Aston Villa,4,0,3
+Chelsea 3-2 Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,8,5,3
+Liverpool 4-3 Fulham,Liverpool,Fulham,9,2,3
+West Ham United 1-1 Crystal Palace,West Ham United,Crystal Palace,7,8,7
+Manchester City 3-3 Tottenham Hotspur,Manchester City,Tottenham Hotspur,18,3,10
+Wolverhampton Wanderers 1-0 Burnley,Wolverhampton Wanderers,Burnley,1,5,6
+Luton Town 3-4 Arsenal,Luton Town,Arsenal,0,0,0
+Brighton & Hove Albion 2-1 Brentford,Brighton & Hove Albion,Brentford,7,3,5
+Crystal Palace 0-2 AFC Bournemouth,Crystal Palace,AFC Bournemouth,6,5,2
+Fulham 5-0 Nottingham Forest,Fulham,Nottingham Forest,8,1,5
+Sheffield United 0-2 Liverpool,Sheffield United,Liverpool,0,0,4
+Aston Villa 1-0 Manchester City,Aston Villa,Manchester City,3,2,19
+Manchester United 2-1 Chelsea,Manchester United,Chelsea,13,13,11
+Everton 3-0 Newcastle United,Everton,Newcastle United,12,3,9
+Tottenham Hotspur 1-2 West Ham United,Tottenham Hotspur,West Ham United,13,5,11
+Crystal Palace 1-2 Liverpool,Crystal Palace,Liverpool,4,3,16
+Brighton & Hove Albion 1-1 Burnley,Brighton & Hove Albion,Burnley,5,8,5
+Manchester United 0-3 AFC Bournemouth,Manchester United,AFC Bournemouth,9,1,2
+Sheffield United 1-0 Brentford,Sheffield United,Brentford,5,3,2
+Wolverhampton Wanderers 1-1 Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest,6,4,4
+Aston Villa 1-0 Arsenal,Aston Villa,Arsenal,6,1,16
+Everton 2-0 Chelsea,Everton,Chelsea,9,8,14
+Fulham 5-0 West Ham United,Fulham,West Ham United,2,3,10
+Luton Town 1-2 Manchester City,Luton Town,Manchester City,0,0,0
+Tottenham Hotspur 4-1 Newcastle United,Tottenham Hotspur,Newcastle United,13,4,8
+Nottingham Forest 0-2 Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,1,0,3
+AFC Bournemouth Ab 1-1 Luton Town,AFC Bournemouth Ab,Luton Town,3,1,2
+Chelsea 2-0 Sheffield United,Chelsea,Sheffield United,3,1,1
+Manchester City 2-2 Crystal Palace,Manchester City,Crystal Palace,16,3,3
+Newcastle United 3-0 Fulham,Newcastle United,Fulham,7,3,6
+Burnley 0-2 Everton,Burnley,Everton,6,1,8
+Arsenal 2-0 Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,6,3,6
+Brentford 1-2 Aston Villa,Brentford,Aston Villa,4,6,1
+West Ham United 3-0 Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,6,1,6
+Liverpool 0-0 Manchester United,Liverpool,Manchester United,12,8,15
+Crystal Palace 1-1 Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,6,8,5
+Aston Villa 1-1 Sheffield United,Aston Villa,Sheffield United,3,3,4
+West Ham United 2-0 Manchester United,West Ham United,Manchester United,6,8,19
+Fulham 0-2 Burnley,Fulham,Burnley,1,1,5
+Luton Town 1-0 Newcastle United,Luton Town,Newcastle United,0,0,1
+Nottingham Forest 2-3 AFC Bournemouth,Nottingham Forest,AFC Bournemouth,3,3,5
+Tottenham Hotspur 2-1 Everton,Tottenham Hotspur,Everton,11,11,5
+Liverpool 1-1 Arsenal,Liverpool,Arsenal,13,13,7
+Wolverhampton Wanderers 2-1 Chelsea,Wolverhampton Wanderers,Chelsea,4,4,8
+Newcastle United 1-3 Nottingham Forest,Newcastle United,Nottingham Forest,4,0,3
+AFC Bournemouth 3-0 Fulham,AFC Bournemouth,Fulham,4,4,1
+Sheffield United 2-3 Luton Town,Sheffield United,Luton Town,1,2,1
+Burnley 0-2 Liverpool,Burnley,Liverpool,2,2,10
+Manchester United 3-2 Aston Villa,Manchester United,Aston Villa,17,5,2
+Brentford 1-4 Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers,4,3,7
+Chelsea 2-1 Crystal Palace,Chelsea,Crystal Palace,18,0,4
+Everton 1-3 Manchester City,Everton,Manchester City,6,6,17
+Brighton & Hove Albion 4-2 Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,3,1,11
+Arsenal 0-2 West Ham United,Arsenal,West Ham United,19,4,3
+Luton Town 2-3 Chelsea,Luton Town,Chelsea,0,0,3
+Aston Villa 3-2 Burnley,Aston Villa,Burnley,4,4,2
+Crystal Palace 3-1 Brentford,Crystal Palace,Brentford,0,6,1
+Manchester City 2-0 Sheffield United,Manchester City,Sheffield United,6,0,0
+Wolverhampton Wanderers 3-0 Everton,Wolverhampton Wanderers,Everton,6,4,5
+Nottingham Forest 2-1 Manchester United,Nottingham Forest,Manchester United,0,0,5
+Fulham 2-1 Arsenal,Fulham,Arsenal,1,5,9
+Tottenham Hotspur 3-1 AFC Bournemouth,Tottenham Hotspur,AFC Bournemouth,10,2,2
+Liverpool 4-2 Newcastle United,Liverpool,Newcastle United,15,6,4
+West Ham United 0-0 Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,3,6,6
+Burnley 1-1 Luton Town,Burnley,Luton Town,2,1,0
+Chelsea 1-0 Fulham,Chelsea,Fulham,10,6,1
+Newcastle United 2-3 Manchester City,Newcastle United,Manchester City,3,3,23
+Everton 0-0 Aston Villa,Everton,Aston Villa,7,6,9
+Manchester United 2-2 Tottenham Hotspur,Manchester United,Tottenham Hotspur,15,6,8
+Arsenal 5-0 Crystal Palace,Arsenal,Crystal Palace,12,6,3
+Brentford 3-2 Nottingham Forest,Brentford,Nottingham Forest,9,4,4
+Sheffield United 2-2 West Ham United,Sheffield United,West Ham United,1,2,3
+AFC Bournemouth 0-4 Liverpool,AFC Bournemouth,Liverpool,2,1,14
+Brighton & Hove Albion 0-0 Wolverhampton Wanderers,Brighton & Hove Albion,Wolverhampton Wanderers,8,8,3
+Nottingham Forest 1-2 Arsenal,Nottingham Forest,Arsenal,3,0,4
+Fulham 0-0 Everton,Fulham,Everton,5,4,9
+Luton Town 4-0 Brighton & Hove Albion,Luton Town,Brighton & Hove Albion,1,0,2
+Crystal Palace 3-2 Sheffield United,Crystal Palace,Sheffield United,4,0,3
+Aston Villa 1-3 Newcastle United,Aston Villa,Newcastle United,5,9,10
+Manchester City 3-1 Burnley,Manchester City,Burnley,16,2,1
+Tottenham Hotspur 3-2 Brentford,Tottenham Hotspur,Brentford,2,3,1
+Liverpool 4-1 Chelsea,Liverpool,Chelsea,11,16,10
+West Ham United 1-1 AFC Bournemouth,West Ham United,AFC Bournemouth,6,4,5
+Wolverhampton Wanderers 3-4 Manchester United,Wolverhampton Wanderers,Manchester United,4,4,11
+Everton 2-2 Tottenham Hotspur,Everton,Tottenham Hotspur,5,11,12
+Brighton & Hove Albion 4-1 Crystal Palace,Brighton & Hove Albion,Crystal Palace,5,9,6
+Burnley 2-2 Fulham,Burnley,Fulham,6,1,1
+Newcastle United 4-4 Luton Town,Newcastle United,Luton Town,1,0,1
+Sheffield United 0-5 Aston Villa,Sheffield United,Aston Villa,4,4,3
+AFC Bournemouth 1-1 Nottingham Forest,AFC Bournemouth,Nottingham Forest,6,3,3
+Chelsea 2-4 Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,8,4,5
+Manchester United 3-0 West Ham United,Manchester United,West Ham United,19,8,7
+Arsenal 3-1 Liverpool,Arsenal,Liverpool,7,14,13
+Brentford 1-3 Manchester City,Brentford,Manchester City,2,0,2
+Manchester City 2-0 Everton,Manchester City,Everton,18,6,6
+Fulham 3-1 AFC Bournemouth,Fulham,AFC Bournemouth,1,4,5
+Liverpool 3-1 Burnley,Liverpool,Burnley,11,2,2
+Luton Town 1-3 Sheffield United,Luton Town,Sheffield United,2,2,1
+Tottenham Hotspur 2-1 Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,11,1,4
+Wolverhampton Wanderers 0-2 Brentford,Wolverhampton Wanderers,Brentford,9,4,4
+Nottingham Forest 2-3 Newcastle United,Nottingham Forest,Newcastle United,4,0,4
+West Ham United 0-6 Arsenal,West Ham United,Arsenal,4,4,19
+Aston Villa 1-2 Manchester United,Aston Villa,Manchester United,2,5,17
+Crystal Palace 1-3 Chelsea,Crystal Palace,Chelsea,4,1,19
+Brentford 1-4 Liverpool,Brentford,Liverpool,1,1,3
+Burnley 0-5 Arsenal,Burnley,Arsenal,1,3,12
+Fulham 1-2 Aston Villa,Fulham,Aston Villa,9,4,8
+Newcastle United 2-2 AFC Bournemouth,Newcastle United,AFC Bournemouth,5,4,3
+Nottingham Forest 2-0 West Ham United,Nottingham Forest,West Ham United,2,0,5
+Tottenham Hotspur 1-2 Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,7,4,5
+Manchester City 1-1 Chelsea,Manchester City,Chelsea,22,5,12
+Sheffield United 0-5 Brighton & Hove Albion,Sheffield United,Brighton & Hove Albion,2,3,1
+Luton Town 1-2 Manchester United,Luton Town,Manchester United,0,0,2
+Everton 1-1 Crystal Palace,Everton,Crystal Palace,10,10,4
+Manchester City 1-0 Brentford,Manchester City,Brentford,3,0,2
+Liverpool 4-1 Luton Town,Liverpool,Luton Town,0,1,0
+Aston Villa 4-2 Nottingham Forest,Aston Villa,Nottingham Forest,4,4,3
+Brighton & Hove Albion 1-1 Everton,Brighton & Hove Albion,Everton,4,3,6
+Crystal Palace 3-0 Burnley,Crystal Palace,Burnley,8,5,8
+Manchester United 1-2 Fulham,Manchester United,Fulham,14,3,0
+AFC Bournemouth 0-1 Manchester City,AFC Bournemouth,Manchester City,0,0,14
+Arsenal 4-1 Newcastle United,Arsenal,Newcastle United,20,3,4
+Wolverhampton Wanderers 1-0 Sheffield United,Wolverhampton Wanderers,Sheffield United,6,1,3
+West Ham United 4-2 Brentford,West Ham United,Brentford,3,0,5
+Brentford 2-2 Chelsea,Brentford,Chelsea,3,2,4
+Everton 1-3 West Ham United,Everton,West Ham United,14,7,7
+Fulham 3-0 Brighton & Hove Albion,Fulham,Brighton & Hove Albion,6,4,5
+Newcastle United 3-0 Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers,6,9,4
+Nottingham Forest 0-1 Liverpool,Nottingham Forest,Liverpool,1,0,3
+Tottenham Hotspur 3-1 Crystal Palace,Tottenham Hotspur,Crystal Palace,16,3,4
+Luton Town 2-3 Aston Villa,Luton Town,Aston Villa,2,0,1
+Burnley 0-2 AFC Bournemouth,Burnley,AFC Bournemouth,7,2,4
+Manchester City 3-1 Manchester United,Manchester City,Manchester United,18,4,14
+Sheffield United 0-6 Arsenal,Sheffield United,Arsenal,1,1,4
+Manchester United 2-0 Everton,Manchester United,Everton,17,9,6
+AFC Bournemouth 2-2 Sheffield United,AFC Bournemouth,Sheffield United,2,2,5
+Crystal Palace 1-1 Luton Town,Crystal Palace,Luton Town,0,0,1
+Wolverhampton Wanderers 2-1 Fulham,Wolverhampton Wanderers,Fulham,10,7,4
+Arsenal 2-1 Brentford,Arsenal,Brentford,5,1,1
+Aston Villa 0-4 Tottenham Hotspur,Aston Villa,Tottenham Hotspur,5,1,17
+Brighton & Hove Albion 1-0 Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,6,5,4
+West Ham United 2-2 Burnley,West Ham United,Burnley,10,4,5
+Liverpool 1-1 Manchester City,Liverpool,Manchester City,15,13,10
+Chelsea 3-2 Newcastle United,Chelsea,Newcastle United,14,6,9
+AFC Bournemouth 4-3 Luton Town,AFC Bournemouth,Luton Town,2,1,2
+Burnley 2-1 Brentford,Burnley,Brentford,3,0,2
+Luton Town 1-1 Nottingham Forest,Luton Town,Nottingham Forest,2,3,2
+Fulham 3-0 Tottenham Hotspur,Fulham,Tottenham Hotspur,2,2,14
+West Ham United 1-1 Aston Villa,West Ham United,Aston Villa,9,6,5
+Newcastle United 4-3 West Ham United,Newcastle United,West Ham United,12,6,6
+AFC Bournemouth 2-1 Everton,AFC Bournemouth,Everton,6,2,7
+Chelsea 2-2 Burnley,Chelsea,Burnley,10,4,1
+Nottingham Forest 1-1 Crystal Palace,Nottingham Forest,Crystal Palace,5,4,1
+Sheffield United 3-3 Fulham,Sheffield United,Fulham,3,2,5
+Tottenham Hotspur 2-1 Luton Town,Tottenham Hotspur,Luton Town,1,0,0
+Aston Villa 2-0 Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,5,6,8
+Brentford 1-1 Manchester United,Brentford,Manchester United,1,1,4
+Liverpool 2-1 Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,9,4,3
+Manchester City 0-0 Arsenal,Manchester City,Arsenal,21,7,10
+Newcastle United 1-1 Everton,Newcastle United,Everton,9,3,13
+Nottingham Forest 3-1 Fulham,Nottingham Forest,Fulham,5,1,9
+AFC Bournemouth 1-0 Crystal Palace,AFC Bournemouth,Crystal Palace,3,5,6
+Burnley 1-1 Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers,6,5,2
+West Ham United 1-1 Tottenham Hotspur,West Ham United,Tottenham Hotspur,12,5,13
+Arsenal 2-0 Luton Town,Arsenal,Luton Town,1,0,0
+Brentford 0-0 Brighton & Hove Albion,Brentford,Brighton & Hove Albion,5,3,8
+Manchester City 4-1 Aston Villa,Manchester City,Aston Villa,19,2,4
+Liverpool 3-1 Sheffield United,Liverpool,Sheffield United,5,0,0
+Chelsea 4-3 Manchester United,Chelsea,Manchester United,11,13,14
+Crystal Palace 2-4 Manchester City,Crystal Palace,Manchester City,3,4,16
+Aston Villa 3-3 Brentford,Aston Villa,Brentford,2,6,4
+Everton 1-0 Burnley,Everton,Burnley,9,1,6
+Fulham 0-1 Newcastle United,Fulham,Newcastle United,6,3,9
+Luton Town 2-1 AFC Bournemouth,Luton Town,AFC Bournemouth,2,1,3
+Wolverhampton Wanderers 1-2 West Ham United,Wolverhampton Wanderers,West Ham United,6,1,7
+Brighton & Hove Albion 0-3 Arsenal,Brighton & Hove Albion,Arsenal,6,3,7
+Manchester United 2-2 Liverpool,Manchester United,Liverpool,16,9,12
+Sheffield United 2-2 Chelsea,Sheffield United,Chelsea,1,1,4
+Tottenham Hotspur 3-1 Nottingham Forest,Tottenham Hotspur,Nottingham Forest,4,0,1
+Newcastle United 4-0 Tottenham Hotspur,Newcastle United,Tottenham Hotspur,8,5,14
+Brentford 2-0 Sheffield United,Brentford,Sheffield United,2,3,6
+Burnley 1-1 Brighton & Hove Albion,Burnley,Brighton & Hove Albion,5,9,5
+Manchester City 5-1 Luton Town,Manchester City,Luton Town,2,0,0
+Nottingham Forest 2-2 Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers,4,5,6
+AFC Bournemouth 2-2 Manchester United,AFC Bournemouth,Manchester United,3,1,9
+Liverpool 0-1 Crystal Palace,Liverpool,Crystal Palace,17,3,4
+West Ham United 0-2 Fulham,West Ham United,Fulham,10,3,3
+Arsenal 0-2 Aston Villa,Arsenal,Aston Villa,16,1,6
+Chelsea 6-0 Everton,Chelsea,Everton,14,8,10
+Luton Town 1-5 Brentford,Luton Town,Brentford,2,0,4
+Sheffield United 1-4 Burnley,Sheffield United,Burnley,3,3,4
+Wolverhampton Wanderers 0-2 Arsenal,Wolverhampton Wanderers,Arsenal,3,3,9
+Everton 2-0 Nottingham Forest,Everton,Nottingham Forest,1,2,0
+Aston Villa 3-1 AFC Bournemouth,Aston Villa,AFC Bournemouth,3,1,4
+Crystal Palace 5-2 West Ham United,Crystal Palace,West Ham United,7,9,7
+Fulham 1-3 Liverpool,Fulham,Liverpool,3,3,11
+Arsenal 5-0 Chelsea,Arsenal,Chelsea,14,10,15
+Wolverhampton Wanderers 0-1 AFC Bournemouth,Wolverhampton Wanderers,AFC Bournemouth,4,2,3
+Crystal Palace 2-0 Newcastle United,Crystal Palace,Newcastle United,4,8,9
+Everton 2-0 Liverpool,Everton,Liverpool,2,13,15
+Manchester United 4-2 Sheffield United,Manchester United,Sheffield United,4,1,1
+Brighton & Hove Albion 0-4 Manchester City,Brighton & Hove Albion,Manchester City,1,1,12
+West Ham United 2-2 Liverpool,West Ham United,Liverpool,6,4,18
+Fulham 1-1 Crystal Palace,Fulham,Crystal Palace,3,5,3
+Manchester United 1-1 Burnley,Manchester United,Burnley,10,5,1
+Newcastle United 5-1 Sheffield United,Newcastle United,Sheffield United,4,1,1
+Wolverhampton Wanderers 2-1 Luton Town,Wolverhampton Wanderers,Luton Town,0,2,1
+Everton 1-0 Brentford,Everton,Brentford,3,2,2
+Aston Villa 2-2 Chelsea,Aston Villa,Chelsea,6,5,15
+AFC Bournemouth 3-0 Brighton & Hove Albion,AFC Bournemouth,Brighton & Hove Albion,8,4,5
+Tottenham Hotspur 2-3 Arsenal,Tottenham Hotspur,Arsenal,11,8,13
+Nottingham Forest 0-2 Manchester City,Nottingham Forest,Manchester City,0,1,2
+Chelsea 2-0 Tottenham Hotspur,Chelsea,Tottenham Hotspur,19,11,6
+Luton Town 1-1 Everton,Luton Town,Everton,2,0,0
+Arsenal 3-0 AFC Bournemouth,Arsenal,AFC Bournemouth,11,2,1
+Brentford 0-0 Fulham,Brentford,Fulham,9,3,6
+Burnley 1-4 Newcastle United,Burnley,Newcastle United,2,5,7
+Sheffield United 1-3 Nottingham Forest,Sheffield United,Nottingham Forest,4,4,4
+Manchester City 5-1 Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,11,3,4
+Brighton & Hove Albion 1-0 Aston Villa,Brighton & Hove Albion,Aston Villa,1,5,7
+Chelsea 5-0 West Ham United,Chelsea,West Ham United,13,5,8
+Liverpool 4-2 Tottenham Hotspur,Liverpool,Tottenham Hotspur,16,8,6
+Crystal Palace 4-0 Manchester United,Crystal Palace,Manchester United,5,4,16
+Fulham 0-4 Manchester City,Fulham,Manchester City,0,2,16
+AFC Bournemouth 1-2 Brentford,AFC Bournemouth,Brentford,5,6,6
+Everton 1-0 Sheffield United,Everton,Sheffield United,3,1,2
+Newcastle United 1-1 Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,5,6,7
+Tottenham Hotspur 2-1 Burnley,Tottenham Hotspur,Burnley,13,4,2
+West Ham United 3-1 Luton Town,West Ham United,Luton Town,1,1,0
+Wolverhampton Wanderers 1-3 Crystal Palace,Wolverhampton Wanderers,Crystal Palace,5,1,8
+Nottingham Forest 2-3 Chelsea,Nottingham Forest,Chelsea,1,2,3
+Manchester United 0-1 Arsenal,Manchester United,Arsenal,14,7,10
+Aston Villa 3-3 Liverpool,Aston Villa,Liverpool,6,3,15
+Tottenham Hotspur 0-2 Manchester City,Tottenham Hotspur,Manchester City,10,4,18
+Brighton & Hove Albion 1-2 Chelsea,Brighton & Hove Albion,Chelsea,3,5,9
+Manchester United 3-2 Newcastle United,Manchester United,Newcastle United,15,6,7
+Arsenal 2-1 Everton,Arsenal,Everton,18,5,7
+Brentford 2-4 Newcastle United,Brentford,Newcastle United,1,1,6
+Brighton & Hove Albion 0-2 Manchester United,Brighton & Hove Albion,Manchester United,6,1,9
+Burnley 1-2 Nottingham Forest,Burnley,Nottingham Forest,7,5,2
+Chelsea 2-1 AFC Bournemouth,Chelsea,AFC Bournemouth,10,2,4
+Crystal Palace 5-0 Aston Villa,Crystal Palace,Aston Villa,6,2,7
+Liverpool 2-0 Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,15,1,4
+Luton Town 2-4 Fulham,Luton Town,Fulham,0,2,3
+Manchester City 3-1 West Ham United,Manchester City,West Ham United,24,5,2
+Sheffield United 0-3 Tottenham Hotspur,Sheffield United,Tottenham Hotspur,2,2,4
+Aston Villa 3-3 Liverpool,Aston Villa,Liverpool,6,3,15
+Tottenham Hotspur 0-2 Manchester City,Tottenham Hotspur,Manchester City,10,4,18
+Brighton & Hove Albion 1-2 Chelsea,Brighton & Hove Albion,Chelsea,3,5,9
+Manchester United 3-2 Newcastle United,Manchester United,Newcastle United,15,6,7
+Arsenal 2-1 Everton,Arsenal,Everton,18,5,7
+Brentford 2-4 Newcastle United,Brentford,Newcastle United,1,1,6
+Brighton & Hove Albion 0-2 Manchester United,Brighton & Hove Albion,Manchester United,6,1,9
+Burnley 1-2 Nottingham Forest,Burnley,Nottingham Forest,7,5,2
+Chelsea 2-1 AFC Bournemouth,Chelsea,AFC Bournemouth,10,2,4
+Crystal Palace 5-0 Aston Villa,Crystal Palace,Aston Villa,6,2,7
+Liverpool 2-0 Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,15,1,4
+Luton Town 2-4 Fulham,Luton Town,Fulham,0,2,3
+Manchester City 3-1 West Ham United,Manchester City,West Ham United,24,5,2
+Sheffield United 0-3 Tottenham Hotspur,Sheffield United,Tottenham Hotspur,2,2,4
+Aston Villa 3-3 Liverpool,Aston Villa,Liverpool,6,3,15
+Tottenham Hotspur 0-2 Manchester City,Tottenham Hotspur,Manchester City,10,4,18
+Brighton & Hove Albion 1-2 Chelsea,Brighton & Hove Albion,Chelsea,3,5,9
+Manchester United 3-2 Newcastle United,Manchester United,Newcastle United,15,6,7
+Arsenal 2-1 Everton,Arsenal,Everton,18,5,7
+Brentford 2-4 Newcastle United,Brentford,Newcastle United,1,1,6
+Brighton & Hove Albion 0-2 Manchester United,Brighton & Hove Albion,Manchester United,6,1,9
+Burnley 1-2 Nottingham Forest,Burnley,Nottingham Forest,7,5,2
+Chelsea 2-1 AFC Bournemouth,Chelsea,AFC Bournemouth,10,2,4
+Crystal Palace 5-0 Aston Villa,Crystal Palace,Aston Villa,6,2,7
+Liverpool 2-0 Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,15,1,4
+Luton Town 2-4 Fulham,Luton Town,Fulham,0,2,3
+Manchester City 3-1 West Ham United,Manchester City,West Ham United,24,5,2
+Sheffield United 0-3 Tottenham Hotspur,Sheffield United,Tottenham Hotspur,2,2,4
